@@ -1,0 +1,8 @@
+/venv/
+/.idea/
+/__pycache__/
+*.pdf
+/dataset/
+/training/
+/weights/
+*.h5
